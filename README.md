@@ -1,4 +1,4 @@
 Phaser Pong
 ===========
 
-A remake of the Pong using the Phaser framework.
+A remake of Pong using the Phaser framework.
